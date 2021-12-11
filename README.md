@@ -7,7 +7,7 @@
 
 ***University of Oxford***
 
-*This application is part of the thesis submitted in partial fulfilment of then Master of Science in Mathematical Finance*
+*This application is part of the thesis submitted in partial fulfilment of the Master of Science in Mathematical Finance*
 
 December 17, 2021
 
