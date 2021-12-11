@@ -16,7 +16,7 @@ We believe in open source applications and the possibility to reproduce scientif
 
 *Note that his repository contains the additional code and libraries only.*
 
-The **LOB application** code can be accessed here: https://github.com/Ben-4-Git/lobtest
+The **LOB application** code can be accessed here: https://github.com/LimitOrderBook/lob-app
 
 A **running demo** of the LOB application can be found here: https://lob.physik.bayern
 
