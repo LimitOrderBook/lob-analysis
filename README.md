@@ -1,6 +1,6 @@
 # Limit Order Book analysis notebooks, libraries and figures
 ## Dissertation
-**Modelling the short-term impact of live news-flows on the limit order book using an extended Hawkes process**
+**Short-term impact of live news on the limit order book modelled as an extended Hawkes process**
 ![University of Oxford](oxford-logo.png)
 
 ***Christ Church***
